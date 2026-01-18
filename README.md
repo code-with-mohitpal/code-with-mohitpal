@@ -10,6 +10,22 @@
 [![](https://visitcount.itsvg.in/api?id=code-with-mohitpal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 🌟
+# 👨‍💻 code-with-mohitpal
+
+## 🧩 LeetCode & SQL
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/code-with-mohitpal?theme=dark&ext=heatmap)
+
+### 🛠 Skills
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔗 Competitive Programming Profiles
+- 🟠 LeetCode: https://leetcode.com/u/code-with-mohitpal/
+- 🔵 Codeforces: https://codeforces.com/profile/pal0017689
+
+### 📌 About
+I practice **Data Structures & Algorithms** and **SQL** regularly.
+This GitHub contains my **LeetCode & Codeforces solutions in Java**, well-structured and commented.
 
 
 <!--
