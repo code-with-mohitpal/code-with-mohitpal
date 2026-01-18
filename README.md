@@ -9,14 +9,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=code-with-mohitpal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 🌟 Competitive Programming Profiles
-
-- 🟠 LeetCode: https://leetcode.com/u/code-with-mohitpal/
-- 🔵 Codeforces: https://codeforces.com/profile/pal0017689
-
-### 💻 Problem Solving Repositories
-- 📁 LeetCode Solutions (Java)
-- 📁 Codeforces Solutions (Java – Div2 / Div3 / Practice)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 🌟
 
 
 <!--
