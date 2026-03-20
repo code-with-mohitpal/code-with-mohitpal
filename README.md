@@ -79,14 +79,6 @@ I am passionate about building intelligent systems and real-world applications u
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/code-with-mohitpal/code-with-mohitpal/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 👀 Profile Views
 
 <p align="center">
