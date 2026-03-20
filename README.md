@@ -26,6 +26,13 @@ Currently focusing on **problem solving, web development, and machine learning**
   <img src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-mohitpal&theme=tokyonight" />
 </p>
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/code-with-mohitpal?theme=dark&font=baloo&ext=contest" />
+</p>
+
+🔗 Profile: https://leetcode.com/code-with-mohitpal/
 
 ## 💻 Most Used Languages
 
