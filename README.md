@@ -9,8 +9,8 @@
 
 I am passionate about building intelligent systems and real-world applications using **Python, Java, and Data Structures & Algorithms**.  
 
-🚀 Currently focusing on **Machine Learning, Problem Solving, and Backend Development**  
-📊 Exploring **Data Science with Pandas, NumPy, and visualization tools**  
+🚀 Currently focusing on **Machine Learning, Problem Solving, Backend Development, and Agentic AI**  
+📊 Exploring **Data Science with Pandas, NumPy, Matplotlib, and Seaborn**  
 
 🧠 Active on LeetCode, improving coding skills daily  
 📫 Reach me at: pal001768@gmail.com  
@@ -18,9 +18,9 @@ I am passionate about building intelligent systems and real-world applications u
 ---
 
 ## 🚀 About Me
-- 🔭 Working on AI/ML projects  
+- 🔭 Working on AI/ML & Agentic AI projects  
 - 🌱 Learning Data Structures & Algorithms  
-- 💡 Interested in Backend Development  
+- 💡 Interested in Backend & Cloud Development  
 - ⚡ Goal: Crack top tech companies  
 
 ---
@@ -34,6 +34,16 @@ I am passionate about building intelligent systems and real-world applications u
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
 
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
+![Seaborn](https://img.shields.io/badge/Seaborn-blue)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
+![OpenAI](https://img.shields.io/badge/OpenAI-black)
+
 ---
 
 ## 📊 GitHub Stats
@@ -42,6 +52,12 @@ I am passionate about building intelligent systems and real-world applications u
   <img src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-mohitpal&theme=tokyonight" />
 </p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal&theme=tokyo-night)](https://github.com/code-with-mohitpal)
 
 ---
 
@@ -60,24 +76,6 @@ I am passionate about building intelligent systems and real-world applications u
 </p>
 
 🔗 Profile: https://leetcode.com/code-with-mohitpal/
-
----
-
-## 🎯 Skill Progress
-
-Java       ██████████░░ 80%  
-Python     █████████░░░ 75%  
-DSA        ████████░░░░ 70%  
-SQL        ███████░░░░░ 65%  
-
----
-
-## 🎮 Developer Level
-
-🏆 Level: Intermediate Developer  
-⚔️ XP: 500+ Coding Problems  
-🔥 Current Streak: Improving Daily  
-🚀 Rank: Growing  
 
 ---
 
