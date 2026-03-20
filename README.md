@@ -43,11 +43,14 @@ Currently focusing on **problem solving, web development, and machine learning**
 ## 📈 Contribution Graph
 
 [![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal&theme=tokyo-night)](https://github.com/code-with-mohitpal)
-## 🏆 GitHub Trophies
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=tokyonight&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/code-with-mohitpal/code-with-mohitpal/output/github-contribution-grid-snake.svg" />
 </p>
+
+
 ## 🚀 About Me
 
 - 🔭 Currently working on AI/ML projects  
