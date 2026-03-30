@@ -91,6 +91,6 @@ I am passionate about building intelligent systems and real-world applications u
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-with-mohitpal&label=Profile+Views&color=blue&style=for-the-badge" />
-</p>
+</p> 
 
 
