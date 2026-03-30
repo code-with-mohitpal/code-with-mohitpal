@@ -60,12 +60,13 @@ I am passionate about building intelligent systems and real-world applications u
 
 ---
 
-## 📊 GitHub Stats (FIXED ✅)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
