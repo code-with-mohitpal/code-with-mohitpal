@@ -63,17 +63,24 @@ I am passionate about building intelligent systems and real-world applications u
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- FIXED -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-mohitpal&theme=tokyonight" />
 </p>
-
 
 ---
 
 ## 📈 Contribution Graph
 
+[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal\&theme=tokyo-night)](https://github.com/code-with-mohitpal)
+
+---
+
+## 📈 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal&theme=tokyo-night" />
+  <!-- FIXED -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -92,6 +99,4 @@ I am passionate about building intelligent systems and real-world applications u
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-with-mohitpal&label=Profile+Views&color=blue&style=for-the-badge" />
-</p> 
-
-
+</p>
