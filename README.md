@@ -4,25 +4,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Engineering+Student;Competitive+Programmer;Java+%7C+Python+Developer" />
 </p>
 
-💻 AI & ML Engineering Student | Software Developer
+💻 AI & ML Engineering Student | Software Developer  
 🎓 B.Tech CSE (AI & ML)
 
 I am passionate about building intelligent systems and real-world applications using **Python, Java, and Data Structures & Algorithms**.
 
-🚀 Currently focusing on **Machine Learning, Problem Solving, Backend Development, and Agentic AI**
+🚀 Currently focusing on **Machine Learning, Problem Solving, Backend Development, and Agentic AI**  
 📊 Exploring **Data Science with Pandas, NumPy, Matplotlib, and Seaborn**
 
-🧠 Active on LeetCode, improving coding skills daily
+🧠 Active on LeetCode, improving coding skills daily  
 📫 Reach me at: **[pal001768@gmail.com](mailto:pal001768@gmail.com)**
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Working on AI/ML & Agentic AI projects
-* 🌱 Learning Data Structures & Algorithms
-* 💡 Interested in Backend & Cloud Development
-* ⚡ Goal: Crack top tech companies
+* 🔭 Working on AI/ML & Agentic AI projects  
+* 🌱 Learning Data Structures & Algorithms  
+* 💡 Interested in Backend & Cloud Development  
+* ⚡ Goal: Crack top tech companies  
 
 ---
 
@@ -60,10 +60,27 @@ I am passionate about building intelligent systems and real-world applications u
 
 ---
 
+## 🚀 Projects
+
+### 📝 Text Summarizer
+- 📂 File: `text_summarizer.ipynb`
+- 🔍 Built using NLP techniques to summarize long text into concise insights  
+- ⚙️ Uses Python libraries like **NLTK / Transformers / Scikit-learn**  
+- 💡 Helps in quick understanding of large documents  
+
+---
+
+### 🏥 AI Medical Chatbot
+- 🤖 Intelligent chatbot for basic medical assistance  
+- 🧠 Uses **Machine Learning / NLP** to understand user symptoms  
+- 💬 Provides preliminary suggestions and guidance  
+- ⚙️ Built with Python and AI frameworks  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- FIXED -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-mohitpal&theme=tokyonight" />
 </p>
@@ -79,7 +96,6 @@ I am passionate about building intelligent systems and real-world applications u
 ## 📈 Most Used Languages
 
 <p align="center">
-  <!-- FIXED -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight" />
 </p>
 
