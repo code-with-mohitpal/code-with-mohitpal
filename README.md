@@ -76,7 +76,6 @@ I build intelligent, scalable, and real-world applications using **Python, Java,
 * Mohit Pal
 * Prateek Pal
 
-🌐 Live Demo: https://your-live-demo-link.com
 
 ---
 
