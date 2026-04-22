@@ -76,7 +76,6 @@ I build intelligent, scalable, and real-world applications using **Python, Java,
 * Mohit Pal
 * Prateek Pal
 
-🔗 GitHub Repo: https://github.com/your-username/telemedicine-project
 🌐 Live Demo: https://your-live-demo-link.com
 
 ---
@@ -86,8 +85,6 @@ I build intelligent, scalable, and real-world applications using **Python, Java,
 * 🔍 NLP-based system to summarize long text into concise insights
 * ⚙️ Built using **NLTK, Transformers, Scikit-learn**
 * 💡 Useful for quick document understanding
-
-🔗 GitHub Repo: https://github.com/your-username/text-summarizer
 
 ---
 
@@ -138,4 +135,5 @@ I build intelligent, scalable, and real-world applications using **Python, Java,
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-with-mohitpal&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
+
 
