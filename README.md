@@ -4,25 +4,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Engineering+Student;Competitive+Programmer;Java+%7C+Python+Developer" />
 </p>
 
-💻 AI & ML Engineering Student | Software Developer  
+💻 AI & ML Engineering Student | Software Developer
 🎓 B.Tech CSE (AI & ML)
 
-I am passionate about building intelligent systems and real-world applications using **Python, Java, and Data Structures & Algorithms**.
+I build intelligent, scalable, and real-world applications using **Python, Java, and AI technologies**.
 
-🚀 Currently focusing on **Machine Learning, Problem Solving, Backend Development, and Agentic AI**  
-📊 Exploring **Data Science with Pandas, NumPy, Matplotlib, and Seaborn**
+🚀 Currently focused on **Machine Learning, Backend Development, and Agentic AI**
+📊 Exploring **Data Science (Pandas, NumPy, Matplotlib, Seaborn)**
+🧠 Active on LeetCode, improving problem-solving daily
 
-🧠 Active on LeetCode, improving coding skills daily  
 📫 Reach me at: **[pal001768@gmail.com](mailto:pal001768@gmail.com)**
 
 ---
 
 ## 🚀 About Me
 
-* 🔭 Working on AI/ML & Agentic AI projects  
-* 🌱 Learning Data Structures & Algorithms  
-* 💡 Interested in Backend & Cloud Development  
-* ⚡ Goal: Crack top tech companies  
+* 🔭 Working on AI/ML & real-world projects
+* 🌱 Learning Data Structures & Algorithms
+* 💡 Interested in Backend, Cloud & AI Systems
+* ⚡ Goal: Crack top tech companies
 
 ---
 
@@ -30,51 +30,45 @@ I am passionate about building intelligent systems and real-world applications u
 
 ### 👨‍💻 Programming
 
-![Java](https://img.shields.io/badge/Java-orange?logo=java)
-![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![C](https://img.shields.io/badge/C-grey?logo=c)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
+Java • Python • C • JavaScript • SQL
 
 ### 🌐 Web
 
-![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
+HTML • CSS
 
 ### 🤖 AI / ML
 
-![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch)
+NumPy • Pandas • Matplotlib • Seaborn • Scikit-Learn • TensorFlow • PyTorch
 
-### ☁️ Tools & DevOps
+### ☁️ Tools
 
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
-![OpenAI](https://img.shields.io/badge/OpenAI-black)
+Git • Docker • Kubernetes • OpenAI
 
 ---
 
 ## 🚀 Projects
 
-### 📝 Text Summarizer
-- 📂 File: `text_summarizer.ipynb`
-- 🔍 Built using NLP techniques to summarize long text into concise insights  
-- ⚙️ Uses Python libraries like **NLTK / Transformers / Scikit-learn**  
-- 💡 Helps in quick understanding of large documents  
+### 🏥 AI Powered Telemedicine for Smart Healthcare ⭐ (Highlighted Project)
+
+* 🤖 Developed an AI-powered telemedicine platform for smart healthcare assistance
+* 💬 Enables real-time interaction for basic medical guidance
+* 🧠 Integrated NLP-based AI models for intelligent response handling
+* 🌐 Built a responsive web interface for accessibility
+* ⚙️ Tech Stack: Python (Flask), HTML, CSS, JavaScript
+
+#### 👥 Team Members
+
+* Afreen Nisha
+* Mohit Pal
+* Prateek Pal
 
 ---
 
-### 🏥 AI Medical Chatbot
-- 🤖 Intelligent chatbot for basic medical assistance  
-- 🧠 Uses **Machine Learning / NLP** to understand user symptoms  
-- 💬 Provides preliminary suggestions and guidance  
-- ⚙️ Built with Python and AI frameworks  
+### 📝 Text Summarizer
+
+* 🔍 NLP-based system to summarize long text into concise insights
+* ⚙️ Built using **NLTK, Transformers, Scikit-learn**
+* 💡 Useful for quick document understanding
 
 ---
 
@@ -87,12 +81,6 @@ I am passionate about building intelligent systems and real-world applications u
 
 ---
 
-## 📈 Contribution Graph
-
-[![Mohit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal\&theme=tokyo-night)](https://github.com/code-with-mohitpal)
-
----
-
 ## 📈 Most Used Languages
 
 <p align="center">
@@ -101,13 +89,9 @@ I am passionate about building intelligent systems and real-world applications u
 
 ---
 
-## 🧠 LeetCode Stats
+## 🧠 LeetCode
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/code-with-mohitpal?theme=dark&font=baloo&ext=contest" />
-</p>
-
-🔗 Profile: https://leetcode.com/code-with-mohitpal/
+🔗 https://leetcode.com/code-with-mohitpal/
 
 ---
 
@@ -116,3 +100,4 @@ I am passionate about building intelligent systems and real-world applications u
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-with-mohitpal&label=Profile+Views&color=blue&style=for-the-badge" />
 </p>
+
