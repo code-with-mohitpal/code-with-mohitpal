@@ -90,8 +90,8 @@ I build intelligent, scalable, and real-world applications using **Python, Java,
 ## 📸 Project Screenshots
 
 <p align="center">
-  <img src="C:\Users\HP\Downloads\Screenshot 2026-04-22 014011.png">
-  <img src="https://via.placeholder.com/400x200?text=Chat+Interface" />
+  <img src="C:\Users\HP\Downloads\Screenshot 2026-04-22 014011.png" />
+  <img src="C:\Users\HP\Downloads\Screenshot 2026-04-22 014011.png" />
 </p>
 
 ---
