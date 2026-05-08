@@ -9,30 +9,37 @@
 </p>
 
 ---
+
 # 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="100%">
+<td width="55%">
 
 ```bash
 Mohit-Pal@github:~$ ./welcome.sh
 ```
 
-- 👋 Hello! I'm **Mohit Pal**, an AI & ML Engineering student  
-- 💻 Passionate about Full Stack Development & AI Systems  
-- 🚀 Currently building real-world AI/ML projects  
-- 🌱 Learning DSA, Backend Development & Cloud Computing  
-- 🤖 Exploring Agentic AI and Machine Learning  
-- 🔥 Love working with Python, JavaScript & Modern Tech  
-- 🎯 Goal: Crack top product-based tech companies  
-- 🎧 Coding sessions powered by music & coffee  
-- 🤝 Let's connect and build something awesome together!  
+- 👋 Hi, I'm **Mohit Pal**
+- 🎓 B.Tech CSE (AI & ML) Student
+- 🤖 Passionate about Artificial Intelligence & Full Stack Development
+- 🚀 Building real-world Machine Learning applications
+- 🌱 Currently learning DSA, Backend Development & Cloud Computing
+- 💡 Interested in Agentic AI, System Design & Modern Web Technologies
+- 🔥 Love solving problems using Python & JavaScript
+- 🧠 Consistently improving through LeetCode & GitHub
+- 🎯 Goal: Become a top Software Engineer & AI Developer
+- 🎧 Coding + Music = Perfect Productivity
+
+### ⚡ Fun Fact
+> I turn coffee ☕ into scalable applications 🚀
 
 </td>
 
 <td width="45%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+
 </td>
 
 </tr>
@@ -49,7 +56,7 @@ Mohit-Pal@github:~$ ./welcome.sh
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -64,6 +71,7 @@ Mohit-Pal@github:~$ ./welcome.sh
 ![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -97,14 +105,14 @@ Mohit-Pal@github:~$ ./welcome.sh
 
 # 🚀 Featured Projects
 
-# 🏥 AI Powered Telemedicine for Smart Healthcare
+## 🏥 AI Powered Telemedicine for Smart Healthcare
 
 ### 🔹 Features
 
 - 🤖 AI-powered healthcare assistant
 - 💬 Real-time patient interaction
 - 🧠 NLP + Machine Learning based system
-- 🌐 Web-based responsive interface
+- 🌐 Responsive web interface
 - ⚙️ Flask Backend + Frontend Integration
 
 ### 🛠️ Tech Used
@@ -119,7 +127,7 @@ Mohit-Pal@github:~$ ./welcome.sh
 
 ---
 
-# 📝 Text Summarizer
+## 📝 Text Summarizer
 
 - 🔍 NLP-based intelligent summarizer
 - 📄 Converts long text into concise summaries
@@ -135,32 +143,19 @@ Mohit-Pal@github:~$ ./welcome.sh
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-mohitpal&theme=tokyonight" height="180em"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-mohitpal&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 3D Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-with-mohitpal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=code-with-mohitpal&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -168,7 +163,17 @@ Mohit-Pal@github:~$ ./welcome.sh
 # 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
 </p>
 
 ---
