@@ -108,6 +108,10 @@ Mohit-Pal@github:~$ ./welcome.sh
 - 🧠 NLP + Machine Learning based system
 - 🌐 Responsive web interface
 - ⚙️ Flask Backend + Frontend Integration
+- Team Members
+- Afreen Nisha
+- Mohit pal
+- Prateek pal
 
 ### 🛠️ Tech Used
 
