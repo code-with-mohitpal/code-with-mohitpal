@@ -9,30 +9,34 @@
 </p>
 
 ---
+# 👨‍💻 About Me
 
-# 🚀 About Me
+<table>
+<tr>
+<td width="55%">
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450"/>
-</p>
+```bash
+Mohit-Pal@github:~$ ./welcome.sh
+```
 
-<h3 align="center">
-💻 AI & ML Engineering Student | Full Stack Developer | Problem Solver
-</h3>
+- 👋 Hello! I'm **Mohit Pal**, an AI & ML Engineering student  
+- 💻 Passionate about Full Stack Development & AI Systems  
+- 🚀 Currently building real-world AI/ML projects  
+- 🌱 Learning DSA, Backend Development & Cloud Computing  
+- 🤖 Exploring Agentic AI and Machine Learning  
+- 🔥 Love working with Python, JavaScript & Modern Tech  
+- 🎯 Goal: Crack top product-based tech companies  
+- 🎧 Coding sessions powered by music & coffee  
+- 🤝 Let's connect and build something awesome together!  
 
----
+</td>
 
-## 👨‍💻 Who Am I?
+<td width="45%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
+</td>
 
-- 🎓 B.Tech CSE (AI & ML) Student
-- 🤖 Passionate about Artificial Intelligence & Machine Learning
-- 🌐 Building scalable Full Stack applications
-- 📚 Learning DSA, Backend Systems & Cloud Computing
-- 🚀 Exploring Agentic AI & Modern Web Technologies
-- 🧠 Active on LeetCode & GitHub daily
-- ⚡ Goal: Crack top product-based tech companies
-
-📫 **Email:** `pal001768@gmail.com`
+</tr>
+</table>
 
 ---
 
