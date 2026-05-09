@@ -152,8 +152,6 @@ Mohit-Pal@github:~$ ./welcome.sh
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
 
 </p>
-```
-
 ---
 
 # 📈 3D Contribution Graph
