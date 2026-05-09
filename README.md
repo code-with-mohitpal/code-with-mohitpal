@@ -143,7 +143,6 @@ Mohit-Pal@github:~$ ./welcome.sh
 
 </p>
 
----
 
 # 🧠 Most Used Languages
 
