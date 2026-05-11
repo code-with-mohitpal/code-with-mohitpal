@@ -132,27 +132,25 @@ Mohit-Pal@github:~$ ./welcome.sh
 `Python` `NLTK` `Transformers` `Scikit-Learn`
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=code-with-mohitpal&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=code-with-mohitpal&theme=tokyonight&hide_border=true" />
 
 </p>
 
+---
 
 # 🧠 Most Used Languages
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
 </p>
----
-
 # 📈 3D Contribution Graph
 
 <p align="center">
