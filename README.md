@@ -136,7 +136,7 @@ Mohit-Pal@github:~$ ./welcome.sh
 
 <p align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight)](https://github.com/code-with-mohitpal)
 
 <img width="49%" src="https://streak-stats.demolab.com?user=code-with-mohitpal&theme=tokyonight&hide_border=true"/>
 
