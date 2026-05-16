@@ -148,7 +148,7 @@ Mohit-Pal@github:~$ ./welcome.sh
 
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight)](https://github.com/code-with-mohitpal)
 
 </p>
 
