@@ -171,9 +171,7 @@ Mohit-Pal@github:~$ ./welcome.sh
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
