@@ -1,80 +1,51 @@
-<div align="center">
+# 👋 Hi, I'm Mohit Pal
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohit+Pal+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML);Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" />
-/n
-<img src="https://komarev.com/ghpvc/?username=code-with-mohitpal&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineering+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;Competitive+Programmer;Java+%7C+Python+Developer" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-with-mohitpal&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```bash
-mohit@github:~$ ./welcome.sh
-→ Building real-world ML apps · Solving DSA · Coding + Music = 🔥
-```
-
-| | |
-|---|---|
-| 🎓 | B.Tech CSE in AI & ML |
-| 🤖 | Passionate about Agentic AI |
-| 🌱 | Learning DSA, Backend & Cloud |
-| 🎯 | Goal: Top Software & AI Engineer |
-| 🔥 | Python & JavaScript lover |
-| 🧠 | LeetCode grinder |
-| 💡 | Interested in System Design & Modern Web Tech |
-| 🎧 | Coding + Music = Perfect Productivity |
+* 🎓 B.Tech CSE (AI & ML) Student
+* 🤖 Passionate about Artificial Intelligence & Machine Learning
+* 💻 Full Stack Development Enthusiast
+* 🌱 Learning DSA, Backend Development & Cloud Computing
+* 🧠 Exploring Agentic AI and Modern Software Engineering
+* 🔥 Love solving real-world problems using Python & Java
+* 🎯 Goal: Become a Software Engineer & AI Developer
+* 🎧 Coding + Music = Productivity
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Tools
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### 📚 Data Science & ML
+### AI / ML
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### ☁️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
 ---
 
@@ -82,39 +53,50 @@ mohit@github:~$ ./welcome.sh
 
 ### 🏥 AI Powered Telemedicine for Smart Healthcare
 
-> AI-powered healthcare assistant with real-time patient interaction using NLP + Machine Learning, built on a Flask backend with a responsive web interface.
+* AI-powered healthcare assistant
+* Real-time patient interaction
+* NLP + Machine Learning
+* Flask-based backend
+* Responsive web interface
 
-**Tech:** `Python` `Flask` `Machine Learning` `NLP` `HTML` `CSS` `JavaScript`
+**Team Members**
 
-**Team:** Mohit Pal · Afreen Nisha · Prateek Pal
+* Mohit Pal
+* Afreen Nisha
+* Prateek Pal
+
+**Tech Stack:** Python • Flask • Machine Learning • HTML • CSS • JavaScript
 
 ---
 
 ### 📝 Text Summarizer
 
-> NLP-based intelligent summarizer that converts long documents into concise summaries using Transformers and Scikit-learn.
+* NLP-powered text summarization
+* Transformer-based architecture
+* Fast and efficient processing
+* Clean user experience
 
-**Tech:** `Python` `NLTK` `Transformers` `Scikit-Learn`
+**Tech Stack:** Python • NLTK • Transformers • Scikit-Learn
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=code-with-mohitpal&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=code-with-mohitpal&theme=tokyonight&hide_border=true" />
 </p>
+
+---
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -122,40 +104,44 @@ mohit@github:~$ ./welcome.sh
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-## 🔥 LeetCode Stats
+## 🔥 LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/code-with-mohitpal?theme=dark&font=baloo&ext=contest" />
 </p>
 
-<p align="center">
-  🔗 <a href="https://leetcode.com/code-with-mohitpal/">LeetCode Profile</a>
-</p>
+🔗 https://leetcode.com/code-with-mohitpal/
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:pal001768@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/code-with-mohitpal">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://leetcode.com/code-with-mohitpal/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
+
+<a href="mailto:pal001768@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/code-with-mohitpal">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/code-with-mohitpal/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
 </p>
 
 ---
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+
