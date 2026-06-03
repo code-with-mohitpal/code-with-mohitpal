@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mohit+Pal+%F0%9F%91%8B;B.Tech+CSE+(AI+%26+ML);Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer" />
-
+/n
 <img src="https://komarev.com/ghpvc/?username=code-with-mohitpal&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 
 </div>
