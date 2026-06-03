@@ -1,125 +1,193 @@
+
 # 👋 Hi, I'm Mohit Pal
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineering+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;Competitive+Programmer;Java+%7C+Python+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Competitive+Programmer;Full+Stack+Developer;Machine+Learning+Enthusiast;Java+%7C+Python+Developer" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-with-mohitpal&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=code-with-mohitpal&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="100%">
+
+```bash
+Mohit-Pal@github:~$ ./welcome.sh
+````
+
+* 👋 Hi, I'm **Mohit Pal**
 * 🎓 B.Tech CSE (AI & ML) Student
-* 🤖 Passionate about Artificial Intelligence & Machine Learning
-* 💻 Full Stack Development Enthusiast
-* 🌱 Learning DSA, Backend Development & Cloud Computing
-* 🧠 Exploring Agentic AI and Modern Software Engineering
-* 🔥 Love solving real-world problems using Python & Java
-* 🎯 Goal: Become a Software Engineer & AI Developer
-* 🎧 Coding + Music = Productivity
+* 🤖 Passionate about Artificial Intelligence & Full Stack Development
+* 🚀 Building real-world Machine Learning applications
+* 🌱 Currently learning DSA, Backend Development & Cloud Computing
+* 💡 Interested in Agentic AI, System Design & Modern Web Technologies
+* 🔥 Love solving problems using Python & JavaScript
+* 🧠 Consistently improving through LeetCode & GitHub
+* 🎯 Goal: Become a top Software Engineer & AI Developer
+* 🎧 Coding + Music = Perfect Productivity
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+## 👨‍💻 Programming Languages
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-### Frameworks & Tools
+---
+
+## ⚙️ Frameworks & Libraries
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-
-### AI / ML
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express JS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 📚 Data Science & ML Libraries
 
-### 🏥 AI Powered Telemedicine for Smart Healthcare
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 
-* AI-powered healthcare assistant
-* Real-time patient interaction
-* NLP + Machine Learning
-* Flask-based backend
-* Responsive web interface
+---
 
-**Team Members**
+## 🗄️ Databases
 
-* Mohit Pal
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+---
+
+## ☁️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏥 AI Powered Telemedicine for Smart Healthcare
+
+* 🤖 AI-powered healthcare assistant
+* 💬 Real-time patient interaction
+* 🧠 NLP + Machine Learning based system
+* 🌐 Responsive web interface
+* ⚙️ Flask Backend + Frontend Integration
+* Team Members
 * Afreen Nisha
-* Prateek Pal
+* Mohit pal
+* Prateek pal
 
-**Tech Stack:** Python • Flask • Machine Learning • HTML • CSS • JavaScript
+### 🛠️ Tech Used
 
----
-
-### 📝 Text Summarizer
-
-* NLP-powered text summarization
-* Transformer-based architecture
-* Fast and efficient processing
-* Clean user experience
-
-**Tech Stack:** Python • NLTK • Transformers • Scikit-Learn
+`Python` `Flask` `Machine Learning` `HTML` `CSS` `JavaScript`
 
 ---
 
-## 📊 GitHub Statistics
+## 📝 Text Summarizer
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+* 🔍 NLP-based intelligent summarizer
+* 📄 Converts long text into concise summaries
+* ⚙️ Built using Transformers & Scikit-learn
+* 🚀 Fast and efficient processing
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=code-with-mohitpal&theme=tokyonight&hide_border=true" />
-</p>
+### 🛠️ Tech Used
+
+`Python` `NLTK` `Transformers` `Scikit-Learn`
 
 ---
-
-## 📈 Activity Graph
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal&theme=tokyo-night&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=code-with-mohitpal&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code-with-mohitpal&layout=compact&theme=tokyonight)](https://github.com/code-with-mohitpal)
+
+</p>
+
+# 📈 3D Contribution Graph
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=code-with-mohitpal&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-mohitpal&theme=tokyo-night&hide_border=true&area=true"/>
+
 </p>
 
 ---
 
-## 🔥 LeetCode
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+</p>
+
+---
+
+# 🔥 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/code-with-mohitpal?theme=dark&font=baloo&ext=contest" />
 </p>
 
-🔗 https://leetcode.com/code-with-mohitpal/
+🔗 LeetCode Profile:
+https://leetcode.com/code-with-mohitpal/
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -143,5 +211,8 @@
 
 ---
 
-<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
+```
 
