@@ -135,10 +135,10 @@ Mohit-Pal@github:~$ ./welcome.sh
 # 📊 GitHub Stats
 
 <p align="center">
-  
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight)](https://github.com/code-with-mohitpal)
 
-<img width="49%" src="https://streak-stats.demolab.com?user=code-with-mohitpal&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=code-with-mohitpal&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=code-with-mohitpal&theme=tokyonight&hide_border=true" />
 
 </p>
 
@@ -171,7 +171,7 @@ Mohit-Pal@github:~$ ./welcome.sh
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=code-with-mohitpal&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 </p>
 
 ---
