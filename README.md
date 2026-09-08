@@ -114,33 +114,11 @@ Mohit-Pal@github:~$ ./welcome.sh
 
 ---
 
-## 💳 CreditWise — Loan Prediction System
-* ML-based system predicting loan approval likelihood
-* Built with classification models on applicant data
-
-`Python` `Scikit-learn` `Pandas` `NumPy`
-
----
-
 ## 🛒 CustomerIQ — Customer Segmentation & Prediction
 * Full-stack ML project combining XGBoost and K-Means Clustering
 * Flask backend with React/Vite frontend
 
 `Python` `XGBoost` `K-Means` `Flask` `React` `Vite`
-
----
-
-## 🛍️ Smart Cart — Customer Segmentation
-* Unsupervised learning project clustering customers by shopping behavior
-
-`Python` `Scikit-learn` `K-Means`
-
----
-
-## 🏠 GharSeva — Home Loan Website
-* Live EMI calculator, eligibility checker, donut chart visualization, scroll animations
-
-`HTML` `CSS` `JavaScript`
 
 ---
 
