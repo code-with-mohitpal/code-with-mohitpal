@@ -144,13 +144,6 @@ Mohit-Pal@github:~$ ./welcome.sh
 
 ---
 
-## 🏨 Hotel Management System
-* Desktop app for managing bookings, rooms, and billing
-
-`Java` `AWT` `Swing` `MySQL` `JDBC`
-
----
-
 ## 🎯 AI Attendance System
 * Dashboard for attendance tracking, subject management, and student-wise stats
 
